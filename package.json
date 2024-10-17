@@ -1,0 +1,11 @@
+{
+  "name": "ynwcode",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Y N W",
+  "license": "ISC",
+  "description": ""
+}
