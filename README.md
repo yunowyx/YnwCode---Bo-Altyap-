@@ -1,2 +1,2 @@
-# YnwCode---Bo-Altyap-
+# YnwCode
 **YnwCode**
